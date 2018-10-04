@@ -1,12 +1,20 @@
 {
   "name": "package",
   "version": "1.0.0",
-  "description": "",
+  "description": "a demo file",
   "main": "index.js",
   "scripts": {
     "start": "./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Akash Ojha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojhakash/package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ojhakash/package/issues"
+  },
+  "homepage": "https://github.com/ojhakash/package#readme"
 }
